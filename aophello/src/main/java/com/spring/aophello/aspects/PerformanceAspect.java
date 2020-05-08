@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 public class PerformanceAspect {
 	static Logger logger = LoggerFactory.getLogger(PerformanceAspect.class);
 
-	@Around(value = "execution(* com.spring.aophello.business.*.*(..))")
+	@Around(value = "com.spring.aophello.aspects.CommonPointcuts.trackTimeAnnotation()")
 	public void totalTimeForCall(ProceedingJoinPoint joinpoint) throws Throwable {
 		// Start time
 		long startTime = System.currentTimeMillis();
