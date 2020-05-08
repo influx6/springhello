@@ -16,6 +16,8 @@ public class CDIBusiness {
 	@Inject
 	CDIDao cdiDao;
 
-	public CDIBusiness() {
+	public int findLatestCD() {
+		int[] latest = this.cdiDao.getData();
+		return latest[0];
 	}
 }
