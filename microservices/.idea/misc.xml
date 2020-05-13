@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/cloud-config-service/pom.xml" />
         <option value="$PROJECT_DIR$/currency-calculator-service/pom.xml" />
         <option value="$PROJECT_DIR$/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/naming-server/pom.xml" />
       </list>
     </option>
   </component>

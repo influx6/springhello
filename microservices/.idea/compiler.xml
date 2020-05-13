@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="currency-exchange-service" />
         <module name="limits-service" />
+        <module name="naming-server" />
         <module name="currency-calculator-service" />
         <module name="cloud-config-service" />
       </profile>
@@ -18,6 +19,7 @@
       <module name="currency-calculator-service" target="1.8" />
       <module name="currency-exchange-service" target="1.8" />
       <module name="limits-service" target="1.8" />
+      <module name="naming-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -26,6 +28,7 @@
       <module name="currency-calculator-service" options="-parameters" />
       <module name="currency-exchange-service" options="-parameters" />
       <module name="limits-service" options="-parameters" />
+      <module name="naming-server" options="-parameters" />
     </option>
   </component>
 </project>
