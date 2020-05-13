@@ -20,116 +20,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d8d1e21-45e9-440f-a68d-b1862d3efd2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_10_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_2_android.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/CurrencyExchangeServiceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/src/main/java/com/microservices/eureka/namingserver/NamingServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naming-server/src/test/java/com/microservices/eureka/namingserver/NamingServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/src/main/java/com/cloud/microservices/zuulapigateway/ZuulApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/src/main/java/com/cloud/microservices/zuulapigateway/ZuulLoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-api-gateway/src/test/java/com/cloud/microservices/zuulapigateway/ZuulApiGatewayApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-config-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-service/src/main/java/com/cloud/microservices/cloudconfigservice/CloudConfigServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-service/src/main/java/com/cloud/microservices/cloudconfigservice/CloudConfigServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/currency-calculator-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/currency-calculator-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/CurrencyCalculatorServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/CurrencyCalculatorServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/calculator/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/calculator/CalculatorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-calculator-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/currency-calculator-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/CurrencyExchangeServiceProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/CurrencyExchangeServiceProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/currency-exchange-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/cloud/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/cloud/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-exchange-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/limits-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/limits-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/limits-service/src/main/java/com/cloud/microservices/limitsservice/LimitsServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/limits-service/src/main/java/com/cloud/microservices/limitsservice/LimitsServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/limits-service/src/main/java/com/cloud/microservices/limitsservice/limitconfigurations/LimitsConfigurationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/limits-service/src/main/java/com/cloud/microservices/limitsservice/limitconfigurations/LimitsConfigurationController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naming-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/naming-server/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,8 +67,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -202,7 +127,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CurrencyCalculatorServiceApplication">
+  <component name="RunManager" selected="Spring Boot.LimitsServiceApplication8081">
     <configuration name="ZipkinJar" type="JarApplication">
       <extension name="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
@@ -345,6 +270,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LimitsServiceApplication8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="limits-service" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.microservices.limitsservice.LimitsServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8081" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NamingServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="naming-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservices.eureka.namingserver.NamingServerApplication" />
@@ -352,11 +298,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZuulApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul-api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.microservices.zuulapigateway.ZuulApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JAR Application.ZipkinJar" />
+      <item itemvalue="Spring Boot.ZuulApiGatewayApplication" />
       <item itemvalue="Spring Boot.CurrencyCalculatorServiceApplication" />
       <item itemvalue="Spring Boot.CloudConfigServiceApplication" />
       <item itemvalue="Spring Boot.LimitsServiceApplication" />
+      <item itemvalue="Spring Boot.LimitsServiceApplication8081" />
       <item itemvalue="Spring Boot.CurrencyCalculatorServiceApplication8200" />
       <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication" />
       <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication8002" />
@@ -374,7 +329,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589341630037</updated>
       <workItem from="1589341631232" duration="66000" />
-      <workItem from="1589341713962" duration="20352000" />
+      <workItem from="1589341713962" duration="27658000" />
     </task>
     <servers />
   </component>
@@ -400,18 +355,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="848" y="408" width="359" height="217" key="#Assign_Data_Sources/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589352793601" />
-    <state x="403" y="175" width="1260" height="757" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589357551826">
+    <state x="510" y="0" width="893" height="1040" key="#LimitsServiceApplication" timestamp="1589375528676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="403" y="175" width="1260" height="757" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589357551826" />
+    <state x="510" y="0" width="893" height="1040" key="#LimitsServiceApplication/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375528676" />
+    <state x="403" y="175" width="1260" height="757" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589375566453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="403" y="175" width="1260" height="757" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375566453" />
     <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589345441992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589345441992" />
-    <state x="754" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1589355731832">
+    <state x="754" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1589370649526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="754" y="204" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589355731832" />
+    <state x="754" y="204" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589370649526" />
     <state x="482" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589352664320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -428,62 +387,66 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="729" y="261" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589349182389" />
-    <state width="1140" height="279" key="GridCell.Tab.0.bottom" timestamp="1589368891389">
+    <state width="1140" height="248" key="GridCell.Tab.0.bottom" timestamp="1589375874043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="279" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589368891389" />
-    <state width="1140" height="279" key="GridCell.Tab.0.center" timestamp="1589368891389">
+    <state width="1140" height="248" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375874043" />
+    <state width="1140" height="248" key="GridCell.Tab.0.center" timestamp="1589375874043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="279" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589368891389" />
-    <state width="1140" height="279" key="GridCell.Tab.0.left" timestamp="1589368891389">
+    <state width="1140" height="248" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375874043" />
+    <state width="1140" height="248" key="GridCell.Tab.0.left" timestamp="1589375874043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="279" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589368891389" />
-    <state width="1140" height="279" key="GridCell.Tab.0.right" timestamp="1589368891389">
+    <state width="1140" height="248" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375874043" />
+    <state width="1140" height="248" key="GridCell.Tab.0.right" timestamp="1589375874043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="279" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589368891389" />
-    <state width="1140" height="279" key="GridCell.Tab.1.bottom" timestamp="1589368891389">
+    <state width="1140" height="248" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375874043" />
+    <state width="1140" height="248" key="GridCell.Tab.1.bottom" timestamp="1589375874043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="279" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589368891389" />
-    <state width="1140" height="279" key="GridCell.Tab.1.center" timestamp="1589368891389">
+    <state width="1140" height="248" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375874043" />
+    <state width="1140" height="248" key="GridCell.Tab.1.center" timestamp="1589375874043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="279" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589368891389" />
-    <state width="1140" height="279" key="GridCell.Tab.1.left" timestamp="1589368891389">
+    <state width="1140" height="248" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375874043" />
+    <state width="1140" height="248" key="GridCell.Tab.1.left" timestamp="1589375874043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="279" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589368891389" />
-    <state width="1140" height="279" key="GridCell.Tab.1.right" timestamp="1589368891389">
+    <state width="1140" height="248" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375874043" />
+    <state width="1140" height="248" key="GridCell.Tab.1.right" timestamp="1589375874043">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="279" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589368891389" />
+    <state width="1140" height="248" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589375874043" />
     <state x="529" y="255" key="IDE.errors.dialog" timestamp="1589343012770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="529" y="255" key="IDE.errors.dialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589343012770" />
-    <state x="664" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589366823672">
+    <state x="479" y="172" key="Maven.ArtifactSearchDialog" timestamp="1589373006580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="664" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589366823672" />
+    <state x="479" y="172" key="Maven.ArtifactSearchDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589373006580" />
+    <state x="664" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589374511420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589374511420" />
     <state x="657" y="119" width="687" height="801" key="find.popup" timestamp="1589344343312">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="657" y="119" width="687" height="801" key="find.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344343312" />
-    <state x="332" y="181" key="new project wizard" timestamp="1589367661615">
+    <state x="332" y="182" width="1235" height="677" key="new project wizard" timestamp="1589374316587">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="332" y="181" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589367661615" />
+    <state x="332" y="182" width="1235" height="677" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589374316587" />
     <state x="792" y="277" key="refactoring.ChangeSignatureDialog" timestamp="1589350276766">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="792" y="277" key="refactoring.ChangeSignatureDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589350276766" />
-    <state x="612" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1589352579915">
+    <state x="612" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1589376657041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="612" y="237" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589352579915" />
+    <state x="612" y="237" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589376657041" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
