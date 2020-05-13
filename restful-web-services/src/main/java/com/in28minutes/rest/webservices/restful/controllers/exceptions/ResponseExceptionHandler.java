@@ -28,6 +28,12 @@ public class ResponseExceptionHandler extends ResponseEntityExceptionHandler {
 		return new ResponseEntity(exceptionResponse, HttpStatus.BAD_REQUEST);
 	}
 
+	@ExceptionHandler(InvalidPostDataException.class)
+	public final ResponseEntity<Object> handlePostNotFoundExceptions(InvalidPostDataException ex, WebRequest request) throws Exception {
+		ExceptionResponse exceptionResponse = new ExceptionResponse(new Date(), ex.getMessage(), request.getDescription(false));
+		return new ResponseEntity(exceptionResponse, HttpStatus.BAD_REQUEST);
+	}
+
 	@ExceptionHandler(UserNotFoundException.class)
 	public final ResponseEntity<Object> handleUserNotFoundExceptions(UserNotFoundException ex, WebRequest request) throws Exception {
 		ExceptionResponse exceptionResponse = new ExceptionResponse(new Date(), ex.getMessage(), request.getDescription(false));

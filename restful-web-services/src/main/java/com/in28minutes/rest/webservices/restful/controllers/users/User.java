@@ -1,6 +1,8 @@
 package com.in28minutes.rest.webservices.restful.controllers.users;
 
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.in28minutes.rest.webservices.restful.controllers.posts.Post;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
@@ -10,16 +12,18 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
 import java.util.Date;
+import java.util.List;
 
 @Entity
 @ApiModel(description = "User modal for user accounts")
-@NamedQuery(name="find_all_users", query="select u from User u")
 public class User {
-	public final static String[] uniqueColumns = new String[] {"name"};
-
 	@Id
 	@GeneratedValue(generator = "users_id_sequence", strategy = GenerationType.IDENTITY)
 	private Integer id;
+
+	@JsonIgnore
+	@OneToMany(fetch = FetchType.LAZY, mappedBy = "user")
+	private List<Post> posts;
 
 	@NotEmpty
 	@NotNull
@@ -51,8 +55,21 @@ public class User {
 		return id;
 	}
 
+	public List<Post> getPosts() {
+		return posts;
+	}
+
+	public void setPosts(List<Post> posts) {
+		this.posts = posts;
+	}
+
 	public void setId(Integer id) {
 		this.id = id;
+	}
+
+	@JsonIgnore
+	public boolean isValid() {
+		return hasName() && hasBirthDate();
 	}
 
 	public boolean hasName() {
