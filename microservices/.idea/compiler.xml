@@ -7,18 +7,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="currency-exchange-service" />
         <module name="limits-service" />
+        <module name="currency-calculator-service" />
         <module name="cloud-config-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-config-service" target="1.8" />
+      <module name="currency-calculator-service" target="1.8" />
+      <module name="currency-exchange-service" target="1.8" />
       <module name="limits-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cloud-config-service" options="-parameters" />
+      <module name="currency-calculator-service" options="-parameters" />
+      <module name="currency-exchange-service" options="-parameters" />
       <module name="limits-service" options="-parameters" />
     </option>
   </component>

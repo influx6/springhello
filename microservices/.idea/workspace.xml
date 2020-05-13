@@ -20,17 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d8d1e21-45e9-440f-a68d-b1862d3efd2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/src/main/java/com/cloud/microservices/limitsservice/Configurations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/src/main/java/com/cloud/microservices/limitsservice/limitconfigurations/LimitsConfigurationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/limits-service/src/main/java/com/cloud/microservices/limitsservice/limitconfigurations/LocalLimitsConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/CloudConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/CurrencyCalculatorServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/src/main/java/com/cloud/microservices/currencycalculatorservice/calculator/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-calculator-service/src/test/java/com/cloud/microservices/currencycalculatorservice/CurrencyCalculatorServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/cloud/microservices/currencyexchangeservice/CloudConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/cloud/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/cloud/microservices/currencyexchangeservice/exchanges/ExchangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-exchange-service/src/test/java/com/cloud/microservices/currencyexchangeservice/CurrencyExchangeServiceApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +58,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -56,6 +82,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -74,6 +101,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cloud.microservices.currencyexchangeservice.exchanges" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\starcraft\Devlabs\src\github.com\influx6\hellospring\microservices\config-server-service-git-repo" />
     </key>
@@ -88,21 +118,93 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.LimitsServiceApplication">
+  <component name="RunManager" selected="Spring Boot.CurrencyCalculatorServiceApplication">
     <configuration name="CloudConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-config-service" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.microservices.cloudconfigservice.CloudConfigServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyCalculatorServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-calculator-service" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.microservices.currencycalculatorservice.CurrencyCalculatorServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-exchange-service" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.microservices.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="LimitsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="limits-service" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.microservices.limitsservice.LimitsServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndTriggerFile" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CloudConfigServiceApplication" />
+      <item itemvalue="Spring Boot.LimitsServiceApplication" />
+      <item itemvalue="Spring Boot.CurrencyCalculatorServiceApplication" />
+      <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -115,7 +217,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589341630037</updated>
       <workItem from="1589341631232" duration="66000" />
-      <workItem from="1589341713962" duration="2247000" />
+      <workItem from="1589341713962" duration="5660000" />
     </task>
     <servers />
   </component>
@@ -137,38 +239,58 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1140" height="266" key="GridCell.Tab.0.bottom" timestamp="1589344036637">
+    <state x="403" y="175" width="1100" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589347157958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="266" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344036637" />
-    <state width="1140" height="266" key="GridCell.Tab.0.center" timestamp="1589344036637">
+    <state x="403" y="175" width="1100" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589347157958" />
+    <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589345441992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="266" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344036637" />
-    <state width="1140" height="266" key="GridCell.Tab.0.left" timestamp="1589344036636">
+    <state x="681" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589345441992" />
+    <state x="754" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1589345972289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="266" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344036636" />
-    <state width="1140" height="266" key="GridCell.Tab.0.right" timestamp="1589344036637">
+    <state x="754" y="204" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589345972289" />
+    <state x="679" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589346064596">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="266" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344036637" />
-    <state width="1140" height="266" key="GridCell.Tab.1.bottom" timestamp="1589344036637">
+    <state x="679" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589346064596" />
+    <state x="729" y="261" key="FileChooserDialogImpl" timestamp="1589345241293">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="266" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344036637" />
-    <state width="1140" height="266" key="GridCell.Tab.1.center" timestamp="1589344036637">
+    <state x="729" y="261" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589345241293" />
+    <state width="1140" height="266" key="GridCell.Tab.0.bottom" timestamp="1589347212112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="266" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344036637" />
-    <state width="1140" height="266" key="GridCell.Tab.1.left" timestamp="1589344036637">
+    <state width="1140" height="266" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589347212112" />
+    <state width="1140" height="266" key="GridCell.Tab.0.center" timestamp="1589347212111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="266" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344036637" />
-    <state width="1140" height="266" key="GridCell.Tab.1.right" timestamp="1589344036637">
+    <state width="1140" height="266" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589347212111" />
+    <state width="1140" height="266" key="GridCell.Tab.0.left" timestamp="1589347212111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1140" height="266" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344036637" />
+    <state width="1140" height="266" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589347212111" />
+    <state width="1140" height="266" key="GridCell.Tab.0.right" timestamp="1589347212111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1140" height="266" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589347212111" />
+    <state width="1140" height="266" key="GridCell.Tab.1.bottom" timestamp="1589347212112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1140" height="266" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589347212112" />
+    <state width="1140" height="266" key="GridCell.Tab.1.center" timestamp="1589347212112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1140" height="266" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589347212112" />
+    <state width="1140" height="266" key="GridCell.Tab.1.left" timestamp="1589347212112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1140" height="266" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589347212112" />
+    <state width="1140" height="266" key="GridCell.Tab.1.right" timestamp="1589347212112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1140" height="266" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589347212112" />
     <state x="529" y="255" key="IDE.errors.dialog" timestamp="1589343012770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -177,6 +299,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="664" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589342837974" />
+    <state x="657" y="119" width="687" height="801" key="find.popup" timestamp="1589344343312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="119" width="687" height="801" key="find.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589344343312" />
+    <state x="332" y="181" key="new project wizard" timestamp="1589345342752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="332" y="181" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589345342752" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

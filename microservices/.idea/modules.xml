@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-config-service/cloud-config-service.iml" filepath="$PROJECT_DIR$/cloud-config-service/cloud-config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-calculator-service/currency-calculator-service.iml" filepath="$PROJECT_DIR$/currency-calculator-service/currency-calculator-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currency-exchange-service/currency-exchange-service.iml" filepath="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/limits-service/limits-service.iml" filepath="$PROJECT_DIR$/limits-service/limits-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservices.iml" filepath="$PROJECT_DIR$/.idea/microservices.iml" />
     </modules>
